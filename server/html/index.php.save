@@ -1,0 +1,6 @@
+<html>
+	<center><h2>Welcome To David's Https Site</h2></center>
+	
+		echo "This is text from Apache PHP";
+	?>
+</html>
