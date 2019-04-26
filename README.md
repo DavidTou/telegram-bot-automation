@@ -1,6 +1,6 @@
 # Telegram BOT for Home Automation
 
-Using Telegram's BOT api platform, I created a system that could allowed me to remotely control and manage my house. The project was tested on a scaled model. The goal was to develop a free domotic system that could use a preexisting communication platform (Telegram messaging app).A server was used as centralized node between house's sensors/switches and Telegram's servers. All the data was sent through HTTPS Protocol to insure security.
+Using Telegram's BOT api platform (https://core.telegram.org/bots/api), I created a system that could allowed me to remotely control and manage my house. The project was tested on a scaled model. The goal was to develop a free domotic system that could use a preexisting communication platform (Telegram messaging app).A server was used as centralized node between house's sensors/switches and Telegram's servers. All the data was sent through HTTPS Protocol to insure security.
 This system allows easy scalability and maintenance because the application is entirely server-side. Used languages: PHP, Arduino language, and SQL.
 
 ## Getting Started
