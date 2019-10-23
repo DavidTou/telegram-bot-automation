@@ -12,7 +12,7 @@ This system allows easy scalability and maintenance because the application is e
 IMPORTANT !! Read https://core.telegram.org/bots/api
 
 Add server/html files to your https Server directory.
-Edit the config.php file with Telegram® BOT API Token, BOT ID, Owners ID Toekns and various IoT device Addresses.
+Edit the config.php file with Telegram® BOT API Token, BOT ID, Owners ID Tokens and various IoT device Addresses.
 Make sure your support SSL/TLS. Telegram only allow you communication through Https.
 
 ## Authors
