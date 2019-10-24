@@ -424,7 +424,7 @@ if( $chatID == $idDavid ) {
     //                }
 
         case "ip": {
-                $ip = gethostbyname('davidtougaw.no-ip.org');
+                $ip = gethostbyname('DDNS_HOST_NAME');
                 sendMessage($chatID,"Public IP Address:".$ip."\n",$TOKEN,"");};break;
 
     }
