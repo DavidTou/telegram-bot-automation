@@ -7,6 +7,17 @@ This system allows easy scalability and maintenance because the application is e
 
 ![telegram-bot-automation](https://github.com/DavidTou/telegram-bot-automation/blob/master/info/why-telegram.png "Why Telegram?")
 
+## Implementation details
+
+- server/html/config.php - config file
+- server/html/func.php - functions for Telegram Bot API communication
+- server/html/saveimage.php - get image from WebCam and save to file
+- server/html/script.php - Main code that is web hooked by Telegram Bot API
+- server/html/start_msg.php - Notify user that bot is active
+- server/html/stop_msg.php - Server turning off message
+- server/html/TCPDF - TCPDF files to generate PDFs
+
+
 ## Getting Started
 
 IMPORTANT !! Read https://core.telegram.org/bots/api
